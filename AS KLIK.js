@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Blum clicker msl
-// @version      2.7
+// @name         AS KLIK
+// @version      1.0
 // @namespace    Violentmonkey Scripts
-// @author       mudachyo
+// @author       Adolsaputra
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
-// @downloadURL  https://github.com/mudachyo/Blum/raw/main/blum-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Blum/raw/main/blum-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Blum
+// @downloadURL  https://github.com/adolsaputra/as-klik/raw/main/AS-KLIK.js
+// @updateURL    https://github.com/adolsaputra/as-klik/raw/main/AS-KLIK.js
+// @homepage     https://github.com/adolsaputra/as-klik
 // ==/UserScript==
 
 let GAME_SETTINGS = {
